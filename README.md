@@ -87,13 +87,15 @@ AI-powered applications.
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎬 [Freelancing Platform for Video Editors](YOUR_REPO_LINK) | React-based platform connecting video editors with clients |
-| 💰 [Expense Tracker](YOUR_REPO_LINK) | Personal finance management and expense tracking application |
-| 🛒 [LumaCart](YOUR_REPO_LINK) | Modern React-based e-commerce application |
-| 🩸 [Blood Donation App](YOUR_REPO_LINK) | Platform connecting blood donors and recipients |
-| 🤖 [AI Project](YOUR_REPO_LINK) | AI-powered application for solving real-world problems |
+| Project                                                                                                           | Description                                                           |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 🎬 [Freelancing Platform for Video Editors](https://github.com/sharmithapriyanka-hub/freelance-for-video-editing) | React-based platform connecting video editors with clients            |
+| 💰 [Expense Tracker](https://github.com/sharmithapriyanka-hub/Expense_Tracker)                                    | Personal finance management and expense tracking application          |
+| 🧠 [Quiz Engine](https://github.com/sharmithapriyanka-hub/qiuz_engine)                                            | Interactive quiz application with dynamic questions and scoring       |
+| 💼 [Career Platform](https://github.com/sharmithapriyanka-hub/career-platform)                                    | Career-focused web application                                        |
+| 📊 [LeetCode Tracker](https://github.com/sharmithapriyanka-hub/leetcode-tracker)                                  | Java-based application for tracking LeetCode problem-solving progress |
+| 🌐 [Portfolio](https://github.com/sharmithapriyanka-hub/portfolio)                                                | Personal developer portfolio                                          |
+| 🎨 [Portfolio 2](https://github.com/sharmithapriyanka-hub/PORTFOLIO_2)                                            | Updated portfolio website                                             |
 
 ---
 
